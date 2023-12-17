@@ -1,0 +1,10 @@
+Add Component: Footprint Not Found AM1D-1212SH
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Added Pin To Net: NetName=SPI1_SCK Pin=U18-21
+Added Pin To Net: NetName=SPI1_MOSI Pin=U18-23
+Added Pin To Net: NetName=SPI1_SCK Pin=U19-11
+Added Pin To Net: NetName=SPI1_MOSI Pin=U19-14
+Add Class Member: Failed to add class member : Component U17 AM1D-1212SH

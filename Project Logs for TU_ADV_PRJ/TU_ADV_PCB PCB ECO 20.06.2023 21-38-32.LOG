@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=tu_7 Pin=U34-2
+Removed Pin From Net: NetName=tu_6 Pin=U34-3
+Removed Pin From Net: NetName=tu_5 Pin=U34-4
+Removed Pin From Net: NetName=tu_4 Pin=U34-5
+Removed Pin From Net: NetName=tu_3 Pin=U34-6
+Removed Pin From Net: NetName=tu_2 Pin=U34-7
+Removed Pin From Net: NetName=tu_1 Pin=U34-8
+Removed Pin From Net: NetName=tu_0 Pin=U34-9
+Add Component: Footprint Not Found AM1D-1212SH
+Add Component: Footprint Not Found 74HC595
+Add Component: Footprint Not Found 74HC595
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Added Pin To Net: NetName=tu_0 Pin=U34-2
+Added Pin To Net: NetName=tu_1 Pin=U34-3
+Added Pin To Net: NetName=tu_2 Pin=U34-4
+Added Pin To Net: NetName=tu_3 Pin=U34-5
+Added Pin To Net: NetName=tu_4 Pin=U34-6
+Added Pin To Net: NetName=tu_5 Pin=U34-7
+Added Pin To Net: NetName=tu_6 Pin=U34-8
+Added Pin To Net: NetName=tu_7 Pin=U34-9
+Add Pin To Net: Unknown Pin: Pin U35-1
+Add Pin To Net: Unknown Pin: Pin U35-2
+Add Pin To Net: Unknown Pin: Pin U35-3
+Add Pin To Net: Unknown Pin: Pin U35-4
+Add Pin To Net: Unknown Pin: Pin U35-5
+Add Pin To Net: Unknown Pin: Pin U35-6
+Add Pin To Net: Unknown Pin: Pin U35-7
+Add Pin To Net: Unknown Pin: Pin U35-8
+Add Pin To Net: Unknown Pin: Pin U35-10
+Add Pin To Net: Unknown Pin: Pin U35-11
+Add Pin To Net: Unknown Pin: Pin U35-12
+Add Pin To Net: Unknown Pin: Pin U35-13
+Add Pin To Net: Unknown Pin: Pin U35-14
+Add Pin To Net: Unknown Pin: Pin U35-15
+Add Pin To Net: Unknown Pin: Pin U35-16
+Add Pin To Net: Unknown Pin: Pin U36-1
+Add Pin To Net: Unknown Pin: Pin U36-2
+Add Pin To Net: Unknown Pin: Pin U36-3
+Add Pin To Net: Unknown Pin: Pin U36-4
+Add Pin To Net: Unknown Pin: Pin U36-5
+Add Pin To Net: Unknown Pin: Pin U36-6
+Add Pin To Net: Unknown Pin: Pin U36-7
+Add Pin To Net: Unknown Pin: Pin U36-8
+Add Pin To Net: Unknown Pin: Pin U36-10
+Add Pin To Net: Unknown Pin: Pin U36-11
+Add Pin To Net: Unknown Pin: Pin U36-12
+Add Pin To Net: Unknown Pin: Pin U36-13
+Add Pin To Net: Unknown Pin: Pin U36-14
+Add Pin To Net: Unknown Pin: Pin U36-15
+Add Pin To Net: Unknown Pin: Pin U36-16
+Add Class Member: Failed to add class member : Component U17 AM1D-1212SH
+Add Class Member: Failed to add class member : Component U35 74HC595
+Add Class Member: Failed to add class member : Component U36 74HC595

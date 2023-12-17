@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=GND Pin=R145-1
+Removed Pin From Net: NetName=GND Pin=R146-1
+Removed Pin From Net: NetName=GND Pin=R147-1
+Removed Pin From Net: NetName=SPI1_SCK Pin=R147-2
+Removed Pin From Net: NetName=GND Pin=R148-1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=R148-2
+Removed Pin From Net: NetName=SPI1_SCK Pin=U18-21
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U18-23
+Removed Pin From Net: NetName=tu_0 Pin=U34-2
+Removed Pin From Net: NetName=tu_1 Pin=U34-3
+Removed Pin From Net: NetName=tu_2 Pin=U34-4
+Removed Pin From Net: NetName=tu_3 Pin=U34-5
+Removed Pin From Net: NetName=tu_4 Pin=U34-6
+Removed Pin From Net: NetName=tu_5 Pin=U34-7
+Removed Pin From Net: NetName=tu_6 Pin=U34-8
+Removed Pin From Net: NetName=tu_7 Pin=U34-9
+Removed Pin From Net: NetName=GND Pin=U34-12
+Removed Pin From Net: NetName=GND Pin=U34-15
+Removed Pin From Net: NetName=tu_15 Pin=U34-16
+Removed Pin From Net: NetName=tu_14 Pin=U34-17
+Removed Pin From Net: NetName=tu_13 Pin=U34-18
+Removed Pin From Net: NetName=tu_12 Pin=U34-19
+Removed Pin From Net: NetName=tu_11 Pin=U34-20
+Removed Pin From Net: NetName=tu_10 Pin=U34-21
+Removed Pin From Net: NetName=tu_9 Pin=U34-22
+Removed Pin From Net: NetName=tu_8 Pin=U34-23
+Removed Pin From Net: NetName=VCC_3.3V_CLEAR Pin=U34-24
+Removed Member From Class: ClassName=U_TU_ADV_SCH Member=R145
+Removed Member From Class: ClassName=U_TU_ADV_SCH Member=R146
+Removed Member From Class: ClassName=U_TU_ADV_SCH Member=R147
+Removed Member From Class: ClassName=U_TU_ADV_SCH Member=R148
+Removed Member From Class: ClassName=U_TU_ADV_SCH Member=U34
+Add Component: Footprint Not Found AM1D-1212SH
+Added Component: Designator=U19(SOIC-16)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/916/74HC_HCT595-1371408.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Nexperia/74HC595D118?qs=P62ublwmbi8l0ry%252BN2uyHg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Counter Shift Registers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U20(SOIC-16)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/916/74HC_HCT595-1371408.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/Nexperia/74HC595D118?qs=P62ublwmbi8l0ry%252BN2uyHg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOIC-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Counter Shift Registers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Added Pin To Net: NetName=tu_1 Pin=U19-1
+Added Pin To Net: NetName=tu_2 Pin=U19-2
+Added Pin To Net: NetName=tu_3 Pin=U19-3
+Added Pin To Net: NetName=tu_4 Pin=U19-4
+Added Pin To Net: NetName=tu_5 Pin=U19-5
+Added Pin To Net: NetName=tu_6 Pin=U19-6
+Added Pin To Net: NetName=tu_7 Pin=U19-7
+Added Pin To Net: NetName=GND_5V Pin=U19-8
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=U19-10
+Added Pin To Net: NetName=GND_5V Pin=U19-13
+Added Pin To Net: NetName=tu_0 Pin=U19-15
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=U19-16
+Added Pin To Net: NetName=tu_9 Pin=U20-1
+Added Pin To Net: NetName=tu_10 Pin=U20-2
+Added Pin To Net: NetName=tu_11 Pin=U20-3
+Added Pin To Net: NetName=tu_12 Pin=U20-4
+Added Pin To Net: NetName=tu_13 Pin=U20-5
+Added Pin To Net: NetName=tu_14 Pin=U20-6
+Added Pin To Net: NetName=tu_15 Pin=U20-7
+Added Pin To Net: NetName=GND_5V Pin=U20-8
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=U20-10
+Added Pin To Net: NetName=SPI1_SCK Pin=U20-11
+Added Pin To Net: NetName=GND_5V Pin=U20-13
+Added Pin To Net: NetName=SPI1_MOSI Pin=U20-14
+Added Pin To Net: NetName=tu_8 Pin=U20-15
+Added Pin To Net: NetName=VCC_3.3V_CLEAR Pin=U20-16
+Change Net Name : Old Net Name=VCC_3.3V_CLEAR New Net Name=+3V3
+Added Pin To Net: NetName=NetU18_20 Pin=U18-20
+Added Pin To Net: NetName=NetU18_20 Pin=U20-12
+Added Net: Name=NetU18_20
+Added Pin To Net: NetName=NetU18_21 Pin=U18-21
+Added Pin To Net: NetName=NetU18_21 Pin=U19-11
+Added Net: Name=NetU18_21
+Added Pin To Net: NetName=NetU18_23 Pin=U18-23
+Added Pin To Net: NetName=NetU18_23 Pin=U19-14
+Added Net: Name=NetU18_23
+Added Pin To Net: NetName=NetU19_12 Pin=U19-12
+Added Net: Name=NetU19_12
+Add Class Member: Failed to add class member : Component U17 AM1D-1212SH
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component U19 74HC595D
+Added Member To Class: ClassName=U_TU_ADV_SCH Member=Component U20 74HC595D
