@@ -1,0 +1,474 @@
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=L?(CD43)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://products.sumida.com/products/pdf/CD43.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://aliexpress.ru/item/1005002090028747.html?sku_id=12000018707218161&spm=a2g2w.productlist.search_results.13.550c3fc1XziZsU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SUMIDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2?H"; VariantName = "[No Variations]"
+Added Component: Designator=L?(CDRH74)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://radiokomponent.com.ua/pdf/trans/CDRH74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://aliexpress.ru/item/1005004321960425.html?sku_id=12000028751500104&spm=a2g2w.productlist.search_results.7.529b6cc4mPaVds"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SUMIDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED_0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "LED Bars and Arrays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R49(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "51K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0402)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "51K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "51K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2R"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91K"; VariantName = "[No Variations]"
+Added Component: Designator=U18(LQFP-64)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/389/stm32f413cg-1851205.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/STMicroelectronics/STM32F413RGT6?qs=FNcb6ahWXRyREY%252BFzgYY7A%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "LQFP-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-23-6)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/671/DOC012671868.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://aliexpress.ru/item/32858079670.html?sku_id=65323825149&spm=a2g2w.productlist.search_results.5.6e4d5adf5VsdVe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HYCON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Battery protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(ESOP-8)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.injoinic.com/wwwroot/uploads/files/20230913/d8e5944686d69fa501fe83e437133f8d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://aliexpress.ru/item/1005005892683023.html?sku_id=12000034732384666"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INJOINIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Charge modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(ESOP-8)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_INJOINIC-IP2312-4V35_C605433.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://aliexpress.ru/item/1005006314271382.html?spm=a2g2w.favourites.mywishlist.41.12044aa670bhdZ&sku_id=12000036725210626"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INJOINIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Charge modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT?(SOT-23-6)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/303/DOC021303523.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/8205a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP4(PLS-4 (DS1021-1x4))
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/977/DOC005977245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/pls-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=L?-1
+Added Pin To Net: NetName=GND Pin=LED?-1
+Added Pin To Net: NetName=+3V3 Pin=R49-1
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=SWCLK Pin=R50-2
+Added Pin To Net: NetName=SWDIO Pin=R51-1
+Added Pin To Net: NetName=+3V3 Pin=R51-2
+Added Pin To Net: NetName=+5V Pin=R?-1
+Added Pin To Net: NetName=+5V Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=+3V3 Pin=U18-1
+Added Pin To Net: NetName=NetR49_2 Pin=U18-7
+Added Pin To Net: NetName=GND_5V Pin=U18-12
+Added Pin To Net: NetName=+3V3 Pin=U18-13
+Added Pin To Net: NetName=GND_5V Pin=U18-18
+Added Pin To Net: NetName=+3V3 Pin=U18-19
+Added Pin To Net: NetName=NetU18_20 Pin=U18-20
+Added Pin To Net: NetName=SPI1_CS1 Pin=U18-24
+Added Pin To Net: NetName=SPI1_CS2 Pin=U18-25
+Added Pin To Net: NetName=GND_5V Pin=U18-31
+Added Pin To Net: NetName=+3V3 Pin=U18-32
+Added Pin To Net: NetName=SWDIO Pin=U18-46
+Added Pin To Net: NetName=GND_5V Pin=U18-47
+Added Pin To Net: NetName=+3V3 Pin=U18-48
+Added Pin To Net: NetName=SWCLK Pin=U18-49
+Added Pin To Net: NetName=GND_5V Pin=U18-60
+Added Pin To Net: NetName=GND_5V Pin=U18-63
+Added Pin To Net: NetName=+3V3 Pin=U18-64
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=+5V Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=XP4-1
+Added Pin To Net: NetName=SWCLK Pin=XP4-2
+Added Pin To Net: NetName=SWDIO Pin=XP4-3
+Added Pin To Net: NetName=+3V3 Pin=XP4-4
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-5
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=U?-7
+Added Net: Name=NetL?_2
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R?-1
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-4
+Added Net: Name=NetR?_2
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Added Pin To Net: NetName=NetU18_21 Pin=U18-21
+Added Net: Name=NetU18_21
+Added Pin To Net: NetName=NetU18_23 Pin=U18-23
+Added Net: Name=NetU18_23
+Added Pin To Net: NetName=NetU18_33 Pin=U18-33
+Added Net: Name=NetU18_33
+Added Pin To Net: NetName=NetU18_34 Pin=U18-34
+Added Net: Name=NetU18_34
+Added Pin To Net: NetName=NetU18_35 Pin=U18-35
+Added Net: Name=NetU18_35
+Added Pin To Net: NetName=NetU18_36 Pin=U18-36
+Added Net: Name=NetU18_36
+Added Pin To Net: NetName=NetVT?_2 Pin=VT?-2
+Added Pin To Net: NetName=NetVT?_2 Pin=VT?-5
+Added Net: Name=NetVT?_2
+Added Pin To Net: NetName=NetVT?_5 Pin=VT?-2
+Added Pin To Net: NetName=NetVT?_5 Pin=VT?-5
+Added Net: Name=NetVT?_5
+Added Pin To Net: NetName=VBAT Pin=C?-1
+Added Pin To Net: NetName=VBAT Pin=L?-1
+Added Pin To Net: NetName=VBAT Pin=R?-1
+Added Pin To Net: NetName=VBAT Pin=R?-2
+Added Net: Name=VBAT
+Added Class: Name=1S_BATTERY_CHARGE_SCH
+Added Class: Name=2S_BATTERY_CHARGE_SCH
+Added Class: Name=2S_BATTERY_PROTECTION_SCH
+Added Class: Name=TU_MAIN
+Added Class: Name=TU_MCU
