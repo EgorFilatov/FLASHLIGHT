@@ -1,0 +1,41 @@
+Added Component: Designator=VT?(SOT-23-6)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/303/DOC021303523.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/8205a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VT?-1
+Added Pin To Net: NetName=NetVT?_2 Pin=VT?-2
+Added Pin To Net: NetName=BAT- Pin=VT?-3
+Added Pin To Net: NetName=NetU?_2 Pin=VT?-4
+Added Pin To Net: NetName=NetVT?_2 Pin=VT?-5
+Added Pin To Net: NetName=NetU?_1 Pin=VT?-6
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Add Net: Net with name "NetR?_2" already exists
+Change Class Name : Old Net Name=U_2S_BATTERY_PROTECTION_SCH New Net Name=U_2S_BATTERY_BALANCER_SCH
+Added Class: Name=U_2S_BATTERY_PROTECTION_SCH
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component C? Cap_0402
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component C? Cap_0402
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component C? Cap_0603
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component L? CD43
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_2S_BATTERY_CHARGER_SCH Member=Component R? Resistor_0603
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component R?

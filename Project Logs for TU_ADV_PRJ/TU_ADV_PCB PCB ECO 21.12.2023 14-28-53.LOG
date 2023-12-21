@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=C1
+Removed Member From Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=L3
+Removed Member From Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=R10
+Added Pin To Net: NetName=BAT+ Pin=C8-1
+Added Pin To Net: NetName=BAT+ Pin=C10-1
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component C8 Cap_1206
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component L2 CD43
+Added Member To Class: ClassName=U_2S_BATTERY_BALANCER_SCH Member=Component R9
