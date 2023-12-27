@@ -3,4 +3,4 @@ Record=SheetSymbol|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|Designator=U_1S_BAT
 Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=2S_BATTERY_BALANCER_SCH.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=2S_BATTERY_CHARGER_SCH.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=2S_BATTERY_PROTECTION_SCH.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=TU_MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=LED_DRIVER.SchDoc|SheetNumber= 
