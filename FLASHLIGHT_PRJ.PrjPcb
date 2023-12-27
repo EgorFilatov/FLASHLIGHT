@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TYDCRIMR
 
 [Document6]
-DocumentPath=TU_ADV_PCB.PcbDoc
+DocumentPath=FLASHLIGHT_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
