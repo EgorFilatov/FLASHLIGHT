@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Member From Class: ClassName=FLASHLIGHT_MAIN_SCH Member=C17
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP: 0603"; UniqueID = "\VSMVWJAL\CGKSZYFM" ("\VSMVWJAL\CGKSZYFM")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAP: 0603"; UniqueID = "\VSMVWJAL\YRYIGNVH" ("\VSMVWJAL\YRYIGNVH")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP: 0603"; UniqueID = "\VSMVWJAL\NPOWXWBY" ("\VSMVWJAL\NPOWXWBY")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP: 0603"; UniqueID = "\VSMVWJAL\SBAVFXJX" ("\VSMVWJAL\SBAVFXJX")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP: 0603"; UniqueID = "\VSMVWJAL\SECRYJWC" ("\VSMVWJAL\SECRYJWC")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22?F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "CDRH74"; UniqueID = "\VSMVWJAL\QQTPYUVE" ("\VSMVWJAL\QQTPYUVE")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://radiokomponent.com.ua/pdf/trans/CDRH74.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://aliexpress.ru/item/1005004321960425.html?sku_id=12000028751500104&spm=a2g2w.productlist.search_results.7.529b6cc4mPaVds"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SUMIDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Inductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1?H"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2" ("LED2"); Footprint = "LED_0603"; UniqueID = "\VSMVWJAL\FTSKONXL" ("\VSMVWJAL\FTSKONXL")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LED_0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES: 0603"; UniqueID = "\VSMVWJAL\VCOPQPTL" ("\VSMVWJAL\VCOPQPTL")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES: 0402"; UniqueID = "\YJHTUATQ" ("\YJHTUATQ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RES: 0402"; UniqueID = "\ZEEYANNM" ("\ZEEYANNM")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "ESOP-8"; UniqueID = "\VSMVWJAL\LVNVOSDR" ("\VSMVWJAL\LVNVOSDR")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_INJOINIC-IP2312-4V35_C605433.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://aliexpress.ru/item/1005006314271382.html?spm=a2g2w.favourites.mywishlist.41.12044aa670bhdZ&sku_id=12000036725210626"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "INJOINIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Charge modules"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "IP2312"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "TSSOP-20"; UniqueID = "\JXSHSAEB" ("\JXSHSAEB")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/696/DOC011696872.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product0/8007122304"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "TSSOP-20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "STM32L011F4P6TR"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT2" ("VT2"); Footprint = "SOT-23-3"; UniqueID = "\OOCZEYBW" ("\OOCZEYBW")
+Change component parameters (AddParameter): Name = "Analogue"; Value = "NX7002AK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/015/DOC024015069.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/onsemi-Fairchild/2N7002?qs=0dwsXDNhqlz66WJJhrTFjQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "IRLML6344"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT3" ("VT3"); Footprint = "SOT-23-3"; UniqueID = "\MUIUAPDF" ("\MUIUAPDF")
+Change component parameters (AddParameter): Name = "Analogue"; Value = "NX7002AK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/015/DOC024015069.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/onsemi-Fairchild/2N7002?qs=0dwsXDNhqlz66WJJhrTFjQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "MOSFET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "IRLML6344"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP: 0603)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "??V"; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOT-223-3)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/677/DOC011677089.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/ld1117s25tr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "SOT-223-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Voltage regulators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LD1117S25TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=NetC19_1 Pin=C23-2
+Added Pin To Net: NetName=NetC19_1 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetC19_1 Pin=C27-2
+Added Pin To Net: NetName=NetC19_1 Pin=R14-1
+Added Pin To Net: NetName=NetC19_1 Pin=U5-16
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=NetC19_1 Pin=U8-2
+Added Pin To Net: NetName=NetC19_1 Pin=U8-4
+Change Net Name : Old Net Name=NetC19_1 New Net Name=+2V5
+Add Net: Net with name "BAT+" already exists
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C23 Cap_0402
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C25 Cap_0402
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C26 Cap_0603
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C27 Cap_0603
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component U8 LD1117

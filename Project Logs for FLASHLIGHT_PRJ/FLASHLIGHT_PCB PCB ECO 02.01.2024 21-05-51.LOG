@@ -1,0 +1,12 @@
+Add Component: Footprint Not Found RES: 0402
+Add Component: Footprint Not Found RES: 0402
+Add Component: Footprint Not Found RES: 0402
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R22-2
+Added Pin To Net: NetName=NetR20_1 Pin=U7-4
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_2 Pin=U7-3
+Added Net: Name=NetR21_2
+Add Class Member: Failed to add class member : Component R20
+Add Class Member: Failed to add class member : Component R21
+Add Class Member: Failed to add class member : Component R22

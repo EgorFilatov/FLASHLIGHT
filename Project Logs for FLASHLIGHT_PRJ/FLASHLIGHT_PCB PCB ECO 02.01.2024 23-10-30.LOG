@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=VT3-2
+Removed Member From Class: ClassName=FLASHLIGHT_MAIN_SCH Member=R16
+Removed Member From Class: ClassName=FLASHLIGHT_MAIN_SCH Member=VT3
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RES: 0402"; UniqueID = "\YJHTUATQ" ("\YJHTUATQ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220R"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component R20
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component R21
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component R22

@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R16 Old Footprint=RES: 0603 New Footprint=RES: 0402
+Change Component Comment : Designator=R16 Old Comment=Resistor_0603 New Comment=
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RES: 0603"; UniqueID = "\QTAFTCJO\XHMKEIQS" ("\QTAFTCJO\XHMKEIQS")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"

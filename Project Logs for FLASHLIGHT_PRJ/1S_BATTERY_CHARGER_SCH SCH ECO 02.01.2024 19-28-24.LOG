@@ -1,0 +1,36 @@
+Change Value of Parameter Value in Part C3 Old=10?F New=???F
+Change Value of Parameter Voltage in Part C3 Old=25V New=??V
+Change Value of Parameter Value in Part C4 Old=10?F New=???F
+Change Value of Parameter Voltage in Part C4 Old=25V New=??V
+Change Value of Parameter Value in Part C5 Old=22?F New=???F
+Change Value of Parameter Voltage in Part C5 Old=25V New=??V
+Change Value of Parameter Value in Part C6 Old=22?F New=???F
+Change Value of Parameter Voltage in Part C6 Old=25V New=??V
+Change Value of Parameter Value in Part C7 Old=22?F New=???F
+Change Value of Parameter Voltage in Part C7 Old=25V New=??V
+Change Value of Parameter Value in Part L1 Old=1?H New=
+Change Value of Parameter Product Category in Part LED2 Old=LED Bars and Arrays New=LED
+Change Value of Parameter Value in Part LED2 Old= New=LED_0603
+Change Value of Parameter Value in Part R4 Old=2R New=??R
+Change Value of Parameter Value in Part R5 Old=1K New=??R
+Change Value of Parameter Value in Part R6 Old=51K New=??R
+Change Value of Parameter Value in Part R7 Old=91K New=??R
+Change Value of Parameter Value in Part R8 Old=0.5R New=??R
+Change Value of Parameter Value in Part R17 Old=100R New=??R
+Change Value of Parameter Value in Part R18 Old=1K New=??R
+Change Value of Parameter Value in Part U2 Old= New=IP2312
+Replace Symbol from C3 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C4 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C5 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C6 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C7 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from L1 CDRH74 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with CDRH74 from MY_INT_LIB.IntLib
+Replace Symbol from LED2 LED_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with LED_0603 from MY_INT_LIB.IntLib
+Replace Symbol from R4 Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R5 Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R6 Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R7 Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R8 Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R17 Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R18 Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from U2 IP2312 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\1S_BATTERY_CHARGER_SCH.SchDoc with IP2312 from MY_INT_LIB.IntLib

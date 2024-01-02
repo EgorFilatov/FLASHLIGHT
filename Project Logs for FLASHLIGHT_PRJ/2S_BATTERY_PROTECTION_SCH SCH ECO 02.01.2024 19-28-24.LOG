@@ -1,0 +1,17 @@
+Change Value of Parameter Value in Part C1 Old=0.1?F New=???F
+Change Value of Parameter Value in Part C2 Old=0.1?F New=???F
+Change Component Parameter Comment in R1 Old= New==ValueManufacturerPartNumber
+Change Value of Parameter Value in Part R1 Old=330R New=100R
+Change Component Parameter Comment in R2 Old= New==ValueManufacturerPartNumber
+Change Value of Parameter Value in Part R2 Old=2K New=100R
+Change Component Parameter Comment in R3 Old= New==ValueManufacturerPartNumber
+Change Value of Parameter Value in Part R3 Old=330R New=100R
+Change Value of Parameter Value in Part U1 Old= New=HY2120
+Change Value of Parameter Value in Part VT1 Old= New=8205A
+Replace Symbol from C1 Cap_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_PROTECTION_SCH.SchDoc with Cap_0402 from capacitor.IntLib
+Replace Symbol from C2 Cap_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_PROTECTION_SCH.SchDoc with Cap_0402 from capacitor.IntLib
+Replace Symbol from R1 Resistor_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_PROTECTION_SCH.SchDoc with Resistor_0402 from resistor.IntLib
+Replace Symbol from R2 Resistor_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_PROTECTION_SCH.SchDoc with Resistor_0402 from resistor.IntLib
+Replace Symbol from R3 Resistor_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_PROTECTION_SCH.SchDoc with Resistor_0402 from resistor.IntLib
+Replace Symbol from U1 HY2120 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_PROTECTION_SCH.SchDoc with HY2120 from MY_INT_LIB.IntLib
+Replace Symbol from VT1 8205A in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_PROTECTION_SCH.SchDoc with 8205A from MY_INT_LIB.IntLib

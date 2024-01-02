@@ -1,0 +1,22 @@
+Change Value of Parameter Value in Part C17 Old=100nF New=???F
+Change Value of Parameter Value in Part C19 Old=1?F New=???F
+Change Value of Parameter Value in Part C20 Old=100nF New=???F
+Change Component Parameter Comment in R14 Old= New==ValueManufacturerPartNumber
+Change Value of Parameter Value in Part R14 Old=10K New=100R
+Change Component Parameter Comment in R15 Old= New==ValueManufacturerPartNumber
+Change Value of Parameter Value in Part R15 Old=10K New=100R
+Change Component Parameter Comment in R16 Old= New==ValueManufacturerPartNumber
+Change Value of Parameter Value in Part R16 Old=10K New=100R
+Change Value of Parameter Value in Part U5 Old= New=STM32L011F4P6TR
+Change Value of Parameter Value in Part VT2 Old= New=IRLML6344
+Change Value of Parameter Value in Part VT3 Old= New=IRLML6344
+Replace Symbol from C17 Cap_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with Cap_0402 from capacitor.IntLib
+Replace Symbol from C19 Cap_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with Cap_0402 from capacitor.IntLib
+Replace Symbol from C20 Cap_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with Cap_0402 from capacitor.IntLib
+Replace Symbol from R14 Resistor_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with Resistor_0402 from resistor.IntLib
+Replace Symbol from R15 Resistor_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with Resistor_0402 from resistor.IntLib
+Replace Symbol from R16 Resistor_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with Resistor_0402 from resistor.IntLib
+Replace Symbol from U5 STM32L011F4P6TR in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with STM32L011F4P6TR from MY_INT_LIB.IntLib
+Replace Symbol from U? LD1117 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with LD1117 from MY_INT_LIB.IntLib
+Replace Symbol from VT2 IRLML6344 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with IRLML6344 from MY_INT_LIB.IntLib
+Replace Symbol from VT3 IRLML6344 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with IRLML6344 from MY_INT_LIB.IntLib

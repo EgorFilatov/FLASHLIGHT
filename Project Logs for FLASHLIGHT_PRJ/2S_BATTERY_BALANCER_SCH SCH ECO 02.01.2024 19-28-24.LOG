@@ -1,0 +1,19 @@
+Change Value of Parameter Value in Part C8 Old=22?F New=???F
+Change Value of Parameter Value in Part C9 Old=1nF New=???F
+Change Value of Parameter Value in Part C10 Old=10?F New=???F
+Change Value of Parameter Voltage in Part C10 Old=25V New=??V
+Change Value of Parameter Value in Part C11 Old=10nF New=???F
+Change Value of Parameter Value in Part C12 Old=10?F New=???F
+Change Value of Parameter Voltage in Part C12 Old=25V New=??V
+Change Value of Parameter Value in Part L2 Old=1?H New=
+Change Component Parameter Comment in R9 Old= New==ValueManufacturerPartNumber
+Change Value of Parameter Value in Part R9 Old=200K New=100R
+Change Value of Parameter Value in Part U3 Old= New=ETA3000
+Replace Symbol from C8 Cap_1206 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with Cap_1206 from capacitor.IntLib
+Replace Symbol from C9 Cap_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with Cap_0402 from capacitor.IntLib
+Replace Symbol from C10 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C11 Cap_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with Cap_0402 from capacitor.IntLib
+Replace Symbol from C12 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from L2 CD43 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with CD43 from MY_INT_LIB.IntLib
+Replace Symbol from R9 Resistor_0402 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with Resistor_0402 from resistor.IntLib
+Replace Symbol from U3 ETA3000 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\2S_BATTERY_BALANCER_SCH.SchDoc with ETA3000 from MY_INT_LIB.IntLib

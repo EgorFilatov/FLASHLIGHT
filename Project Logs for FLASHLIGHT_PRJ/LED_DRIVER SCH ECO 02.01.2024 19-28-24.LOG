@@ -1,0 +1,22 @@
+Change Value of Parameter Value in Part C21 Old=0.1?F New=???F
+Change Value of Parameter Value in Part C24 Old=10?F New=???F
+Change Value of Parameter Value in Part C? Old=22?F New=???F
+Change Value of Parameter Value in Part C? Old=22?F New=???F
+Change Value of Parameter Value in Part L4 Old=2.2?H New=
+Change Value of Parameter Value in Part R? Old=0.01R New=??R
+Change Value of Parameter Value in Part R? Old=4.7K New=??R
+Change Value of Parameter Value in Part R? Old=20K New=??R
+Change Value of Parameter Value in Part R? Old=20K New=??R
+Change Value of Parameter Value in Part U6 Old= New=ST1S10
+Change Value of Parameter Value in Part U? Old= New=MCP6001U
+Replace Symbol from C21 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C24 Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C? Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from C? Cap_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Cap_0603 from capacitor.IntLib
+Replace Symbol from L4 CDRH74 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with CDRH74 from MY_INT_LIB.IntLib
+Replace Symbol from R? Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R? Resistor_2512 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Resistor_2512 from resistor.IntLib
+Replace Symbol from R? Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from R? Resistor_0603 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with Resistor_0603 from resistor.IntLib
+Replace Symbol from U6 ST1S10 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with ST1S10 from MY_INT_LIB.IntLib
+Replace Symbol from U? MCP6001U in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\LED_DRIVER.SchDoc with MCP6001U from MY_INT_LIB.IntLib

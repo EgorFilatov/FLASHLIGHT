@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BAT+ Pin=C7-1
+Removed Pin From Net: NetName=BAT+ Pin=L1-1
+Removed Pin From Net: NetName=BAT+ Pin=R5-1
+Removed Pin From Net: NetName=BAT+ Pin=R8-2
+Removed Pin From Net: NetName=BAT+ Pin=R18-1
+Change component parameters: Designator = "U8" ("U8"); Footprint = "SOT-223-3"; UniqueID = "\HQEGZDCH" ("\HQEGZDCH")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://eu.mouser.com/datasheet/2/389/cd00000544-1795431.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://eu.mouser.com/ProductDetail/STMicroelectronics/LD1117S33CTR?qs=8u%2FLf1IQwKF9meFZLHfRog%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "SOT-223-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Voltage regulators"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "BAT+" already exists

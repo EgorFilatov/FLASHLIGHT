@@ -1,0 +1,8 @@
+Add Net: Net with name "BAT+" already exists
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=L1-1
+Added Pin To Net: NetName=NetC7_1 Pin=R8-2
+Added Net: Name=NetC7_1
+Added Room: Name=FLASHLIGHT_MAIN_SCH
+Added Room: Name=U_1S_BATTERY_CHARGER_SCH
+Added Room: Name=U_LED_DRIVER

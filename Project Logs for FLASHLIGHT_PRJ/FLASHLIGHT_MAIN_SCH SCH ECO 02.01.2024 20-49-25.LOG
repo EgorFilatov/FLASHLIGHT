@@ -1,0 +1,4 @@
+Change Value of Parameter Datasheet in Part U8 Old=https://static.chipdip.ru/lib/677/DOC011677089.pdf New=https://eu.mouser.com/datasheet/2/389/cd00000544-1795431.pdf
+Change Value of Parameter HelpURL in Part U8 Old=https://www.chipdip.by/product/ld1117s25tr New=https://eu.mouser.com/ProductDetail/STMicroelectronics/LD1117S33CTR?qs=8u%2FLf1IQwKF9meFZLHfRog%3D%3D
+Change Value of Parameter Value in Part U8 Old=LD1117S25TR New=
+Replace Symbol from U8 LD1117 in C:\Users\Egor\Desktop\STM32\PCB\FLASHLIGHT\FLASHLIGHT_MAIN_SCH.SchDoc with LD1117 from MY_INT_LIB.IntLib

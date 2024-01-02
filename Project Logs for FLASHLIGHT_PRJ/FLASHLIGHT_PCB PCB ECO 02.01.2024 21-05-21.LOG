@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=VFB Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R22-1
+Add Component: Footprint Not Found RES: 0402
+Add Component: Footprint Not Found RES: 0402
+Add Component: Footprint Not Found RES: 0402
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=U7-4
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component C3 Cap_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component C4 Cap_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component C5 Cap_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component C6 Cap_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component C7 Cap_0603
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component C17 Cap_0603
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C19 Cap_0402
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C20 Cap_0402
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component C21 Cap_0603
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component C22 Cap_0603
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C23 Cap_0402
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component C24 Cap_0603
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C25 Cap_0402
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C26 Cap_0603
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C27 Cap_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component L1 CDRH74
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component L4 CDRH74
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component LED2 LED_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component R4 Resistor_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component R5 Resistor_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component R6 Resistor_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component R7 Resistor_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component R8 Resistor_0603
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component R14
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component R15
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component R16
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component R17 Resistor_0603
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component R18 Resistor_0603
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component R19 Resistor_2512
+Add Class Member: Failed to add class member : Component R?
+Add Class Member: Failed to add class member : Component R?
+Add Class Member: Failed to add class member : Component R?
+Added Member To Class: ClassName=U_1S_BATTERY_CHARGER_SCH Member=Component U2 IP2312
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component U5 STM32L011F4P6TR
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component U6 ST1S10
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component U7 MCP6001U
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component U8 LD1117
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component VT2 IRLML6344
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component VT3 IRLML6344
