@@ -1,6 +1,6 @@
 Record=TopLevelDocument|FileName=FLASHLIGHT_MAIN_SCH.SchDoc|SheetNumber= 
 Record=SheetSymbol|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|Designator=U_1S_BATTERY_CHARGER_SCH|SchDesignator=U_1S_BATTERY_CHARGER_SCH|FileName=1S_BATTERY_CHARGER_SCH.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=1S_BATTERY_CHARGER_SCH.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|Designator=U_LED_DRIVER|SchDesignator=U_LED_DRIVER|FileName=LED_DRIVER.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=LED_DRIVER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=2S_BATTERY_BALANCER_SCH.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=2S_BATTERY_CHARGER_SCH.SchDoc|SheetNumber= 
 Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=2S_BATTERY_PROTECTION_SCH.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=FLASHLIGHT_MAIN_SCH.SchDoc|FileName=LED_DRIVER.SchDoc|SheetNumber= 
