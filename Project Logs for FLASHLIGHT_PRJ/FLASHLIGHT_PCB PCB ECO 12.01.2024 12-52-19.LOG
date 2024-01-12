@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=+5V Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=+5V Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Pin From Net: NetName=+5V Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Pin From Net: NetName=+5V Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-9
+Added Component: Designator=C28(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "X5R 6.3Â 20%"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP: 0402)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C(-55...+85°C)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R(X5R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "X5R 6.3Â 20%"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RES: 0402
+Added Component: Designator=U9(ESOP-8)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/848/DOC018848830.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/tp4056-umw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Charge modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP4056"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=+5V Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=BAT+ Pin=C29-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=+5V Pin=U9-4
+Added Pin To Net: NetName=BAT+ Pin=U9-5
+Added Pin To Net: NetName=+5V Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Pin To Net: NetName=NetR20_2 Pin=U9-2
+Added Net: Name=NetR20_2
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C28 Cap_0402
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component C29 Cap_0402
+Add Class Member: Failed to add class member : Component R20
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component U9 TP4056
