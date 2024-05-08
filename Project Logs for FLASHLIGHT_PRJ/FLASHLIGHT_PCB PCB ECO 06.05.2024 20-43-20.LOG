@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=U6 Old Footprint=ESOP-8 New Footprint=DFN8(4x4)
+Change Component Comment : Designator=U6 Old Comment=ST1S10 New Comment=ST1S10PUR
+Change component parameters: Designator = "U6" ("U6"); Footprint = "ESOP-8"; UniqueID = "\QTAFTCJO\VZPKSXIC" ("\QTAFTCJO\VZPKSXIC")
+Change component parameters (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/421/DOC025421412.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/st1s10pur"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package/Case"; Value = "DFN8 (4x4)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "PWM regulators"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "ST1S10PUR"; VariantName = "[No Variations]"
+Added Component: Designator=U9(ESOP-8)
+Add component (AddParameter): Name = "Analogue"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://static.chipdip.ru/lib/848/DOC018848830.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.by/product/tp4056-umw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package/Case"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Charge modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP4056"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR20_1 Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=+5V Pin=U9-4
+Added Pin To Net: NetName=BAT+ Pin=U9-5
+Added Pin To Net: NetName=TP4056_EN Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U9-9
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component U8 LD1117S33CTR
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component U9 TP4056

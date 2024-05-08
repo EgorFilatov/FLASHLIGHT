@@ -1,0 +1,12 @@
+Added Component: Designator=R?(RES: 1210)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RL1210FR-070R2L/311-0-2NACT-ND/3886121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RL1210FR-070R2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 0.2R, ±1%, 1210, 0.5W, -55...+125°C"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_LED_DRIVER Member=Component R? Resistor film, 0.2R, ±1%, 1210, 0.5W, -55...+125°C

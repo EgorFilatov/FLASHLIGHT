@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U6 Old Footprint=ESOP-8 New Footprint=DFN8(4x4)
+Change Component Comment : Designator=U6 Old Comment=ST1S10 New Comment=ST1S10PUR
+Added Member To Class: ClassName=FLASHLIGHT_MAIN_SCH Member=Component U9 TP4056

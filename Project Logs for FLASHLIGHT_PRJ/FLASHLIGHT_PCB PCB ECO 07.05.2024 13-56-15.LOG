@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=AMP+ Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=VIN Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=AMP+ Pin=U6-6
+Removed Pin From Net: NetName=VIN Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=VIN Pin=U8-3
+Removed Member From Class: ClassName=FLASHLIGHT_MAIN_SCH Member=C26
+Removed Member From Class: ClassName=FLASHLIGHT_MAIN_SCH Member=C27
+Removed Member From Class: ClassName=FLASHLIGHT_MAIN_SCH Member=C30
+Removed Member From Class: ClassName=FLASHLIGHT_MAIN_SCH Member=U8
+Added Pin To Net: NetName=VIN Pin=C24-2
+Added Pin To Net: NetName=VIN Pin=U6-6
